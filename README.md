@@ -1,4 +1,4 @@
 # Navbar-Transition
 Navbar Animation with Clip Path
 
-Awesome animation navbar with clip path
+Awesome animation navbar with clip path.
